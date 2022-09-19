@@ -34,8 +34,6 @@ Los proyectos creados en la aplicación pueden ser guardados para posteiormente 
 
 Al crear un nuevo archivo, el programa te pide seleccionar las dimensiones del liezo, tanto de alto como de ancho
 
-<img src="https://user-images.githubusercontent.com/113897176/191115864-196a9ba0-4149-4d06-8e04-fc07c1dfdfc6.png" width="200">
-
 ## Colores
 
 El programa te da la ventaja de tener guardado en memoria dos colores, que podemos cambiar la selección pulsando la tecla *X*.
