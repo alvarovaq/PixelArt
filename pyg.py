@@ -134,7 +134,6 @@ def DimensionesImag (title, dim) :
 					if status == 0 :
 
 						letra = TextoNum1.texto + TextoNum2.texto + TextoNum3.texto + TextoNum4.texto
-						print(letra)
 						dimensiones[0] = int(letra)
 
 						if dimensiones[0] <= 0 :
@@ -156,7 +155,6 @@ def DimensionesImag (title, dim) :
 					elif status == 1 :
 
 						letra = TextoNum1.texto + TextoNum2.texto + TextoNum3.texto + TextoNum4.texto
-						print(letra)
 						dimensiones[1] = int(letra)
 
 						if dimensiones[1] <= 0 :
@@ -458,7 +456,6 @@ def MultImagen (title, dimensiones, mult) :
 				if key == K_RETURN or key == K_KP_ENTER :
 
 					letra = TextoNum1.texto + TextoNum2.texto
-					print(letra)
 					multt = int(letra)
 
 					if multt <= 0 :

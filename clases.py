@@ -246,8 +246,6 @@ class Historial () :
 
 			self.Historia.append([Imagenes, Imag])
 
-			print(self.pos)
-
 	#Coger imagen
 
 	def Get_Historia (self) :
@@ -262,7 +260,6 @@ class Historial () :
 			return None
 
 		self.pos -= 1
-		print(self.pos)
 
 		res = self.Get_Historia()
 
@@ -279,7 +276,6 @@ class Historial () :
 			return None
 
 		self.pos += 1
-		print(self.pos)
 
 		res = self.Get_Historia()
 		
