@@ -1,7 +1,5 @@
 # PixelArt
-El pixel art o arte de píxel​ es una forma de arte digital, creada a través de una computadora mediante el uso de programas de edición de gráficos rasterizados, donde las imágenes son editadas al nivel del píxel.
-
-El arte pixel es muy divertido! Explora tu imaginación creando escenarios y personajes!
+El pixel art o arte de píxel es una forma de arte digital donde las imágenes son editadas al nivel del píxel. Explora tu imaginación creando escenarios y personajes!
 
 <img src="https://user-images.githubusercontent.com/113897176/191111522-f2bdaa7a-8202-40d5-8a24-5e8697e30a3f.png" width="700">
 
