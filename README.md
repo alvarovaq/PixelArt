@@ -98,11 +98,9 @@ o borrar un lienzo.
 
 Para poder visualizar los lienzos de otra perspectiva, este programa te permite una nueva ventana de visualización. En este podemos visualizar
 los diferentes lienzos de distinta manera.
-
-<img src="https://user-images.githubusercontent.com/113897176/191857183-803c7c64-1750-4e7e-9853-94607bda0c08.png" width="200"> |
-<img src="https://user-images.githubusercontent.com/113897176/191857311-9b07ccd8-305d-40ab-a9b6-011fb8ce27f7.png" width="200"> |
-<img src="https://user-images.githubusercontent.com/113897176/191857382-e4533f6a-65ac-4eeb-833e-c4013d9cb345.png" width="200"> |
-<img src="https://user-images.githubusercontent.com/113897176/191857451-3af71009-e358-48a2-b31b-753a3e537b63.png" width="200">
+| Modo 1 | Modo 2 | Modo 3 | Modo 4 |
+|---|---|---|---|
+| <img src="https://user-images.githubusercontent.com/113897176/191857183-803c7c64-1750-4e7e-9853-94607bda0c08.png" width="200"> | <img src="https://user-images.githubusercontent.com/113897176/191857311-9b07ccd8-305d-40ab-a9b6-011fb8ce27f7.png" width="200"> | <img src="https://user-images.githubusercontent.com/113897176/191857382-e4533f6a-65ac-4eeb-833e-c4013d9cb345.png" width="200"> | <img src="https://user-images.githubusercontent.com/113897176/191857451-3af71009-e358-48a2-b31b-753a3e537b63.png" width="200"> |
 
 ## Ejecución
 
