@@ -102,14 +102,37 @@ los diferentes lienzos de distinta manera.
 |---|---|---|---|
 | <img src="https://user-images.githubusercontent.com/113897176/191857183-803c7c64-1750-4e7e-9853-94607bda0c08.png" width="200"> | <img src="https://user-images.githubusercontent.com/113897176/191857311-9b07ccd8-305d-40ab-a9b6-011fb8ce27f7.png" width="200"> | <img src="https://user-images.githubusercontent.com/113897176/191857382-e4533f6a-65ac-4eeb-833e-c4013d9cb345.png" width="200"> | <img src="https://user-images.githubusercontent.com/113897176/191857451-3af71009-e358-48a2-b31b-753a3e537b63.png" width="200"> |
 
-## Ejecución
+## Desarrollo
 
-Para ejecutar dicho programa, es imprescindible tener instalado en el ordenador las siguientes librerias
+*Julio de 2020 - 1 Mes*
 
-1. pygame
-2. tkinter
+Esta apliación ha sido desarrollado por mí. Ha sido una de mis primeras aplicaciones desarrolladas en *Python* y ha sido desarrollada con el objetivo, así como la mayoría de mis proyectos, de aprender.
 
-Ejecutar archivo *main.py*
+He dado uso de esta misma aplicación para crear imágenes para otros de mis proyectos como puede ser el de <a href="https://github.com/alvarovaq/FlappyBird">*Flappy Birds*</a>, en la cual todas las imágenes utilizadas han sido creadas en esta aplicación.
+
+Para un futuro me gustaría mejorar la eficiencia del código intentando incorporara *numpy* para las matrices y que nos de la posibilidad de crear lienzo más grandes sin que llegue a llenarse tanto la memoria, así como incorporar más funcionalidades como crear animaciones y exportarlo en archivos *.gif* o crear varios lienzos en una misma ventana de trabajo.
+
+## Paquetes
+
+* pygame
+* tkinter
+
+Ejecuta el siguiente comando para instalarlos
+
+`$ pip install -r requirements.txt`
+o bien
+`$ pip install pygame tk`
+
+Ejecuta el archivo *main.py* para iniciar el juego
+
+`$ python main.py`
+
+## Contacto
+
+* Email: alvaro.vaquero.tel@gmail.com
+* LinkedIn: https://www.linkedin.com/in/alvaro-vaquero-gimenez/
+* Twitter: https://twitter.com/AlvaroVaqGim
+* Página Web: https://alvarovaq.github.io
 
 
 
